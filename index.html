@@ -1,13 +1,50 @@
-<!DOCTYPE html>
+
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quick-Jobs-1</title>
-    <link rel="stylesheet" href="./styles.css">
+    <title>Job Listings</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="navbar-item">
+            <label for="search-bar">Search:</label>
+            <input type="text" id="search-bar" placeholder="Search by job title or company">
+        </div>
+
+        <div class="navbar-item">
+            <label for="sort-by">Sort By:</label>
+            <select id="sort-by">
+                <option value="date">Date</option>
+                <option value="job_title">Job Title</option>
+            </select>
+        </div>
+
+        <div class="navbar-item">
+            <label for="posts-per-page">Posts Per Page:</label>
+            <select id="posts-per-page">
+                <option value="5">8</option>
+                <option value="10">10</option>
+                <option value="15">15</option>
+                <option value="20">20</option>
+            </select>
+        </div>
+    </nav>
+
+    <!-- Job Listings (dynamically populated) -->
+    <div class="job-list" id="job-list"></div>
+
+    <!-- Pagination Controls -->
+    <div class="pagination" id="pagination">
+        <button id="prev-page" disabled>Previous</button>
+        <span id="page-number">Page 1</span>
+        <button id="next-page">Next</button>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
-<script src="./script.js"></script>

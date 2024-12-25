@@ -1,0 +1,972 @@
+[
+    {
+      "id": 10000,
+      "job_title": "Forward Research Architect",
+      "company": "Kris - Windler",
+      "job_type": "Full Time",
+      "location": "Singapore",
+      "opening_id": "52716",
+      "hourly_rate": "$29.99/hr",
+      "date_posted": "2014-11-07",
+      "job_description": "Research and develop advanced architectural solutions for the company's products.",
+      "requirements": [
+        "Experience with research methodologies",
+        "Knowledge of architectural design principles",
+        "Strong communication skills"
+      ],
+      "skills_required": ["Research", "Architecture", "Communication"],
+      "company_size": "500-1000 employees",
+      "contact_email": "hr@kriswindler.com"
+    },
+    {
+      "id": 10001,
+      "job_title": "Data Scientist",
+      "company": "Tech Analytics",
+      "job_type": "Contract",
+      "location": "New York, USA",
+      "opening_id": "52717",
+      "hourly_rate": "$45.00/hr",
+      "date_posted": "2024-01-05",
+      "job_description": "Analyze complex datasets to extract valuable insights and inform business decisions.",
+      "requirements": [
+        "Expertise in Python and SQL",
+        "Experience with machine learning models",
+        "Strong analytical skills"
+      ],
+      "skills_required": ["Python", "SQL", "Machine Learning"],
+      "company_size": "1000+ employees",
+      "contact_email": "jobs@techanalytics.com"
+    },
+    {
+      "id": 10002,
+      "job_title": "Full Stack Developer",
+      "company": "Global Solutions",
+      "job_type": "Full Time",
+      "location": "Toronto, Canada",
+      "opening_id": "52718",
+      "hourly_rate": "$40.00/hr",
+      "date_posted": "2023-12-15",
+      "job_description": "Develop and maintain both frontend and backend systems for web applications.",
+      "requirements": [
+        "Proficiency in JavaScript, HTML, CSS, and Node.js",
+        "Experience with cloud platforms (AWS, Azure)",
+        "Strong debugging and problem-solving skills"
+      ],
+      "skills_required": ["JavaScript", "Node.js", "Cloud Computing"],
+      "company_size": "50-200 employees",
+      "contact_email": "careers@globalsolutions.com"
+    },
+    {
+      "id": 10003,
+      "job_title": "Marketing Manager",
+      "company": "NextGen Marketing",
+      "job_type": "Full Time",
+      "location": "London, UK",
+      "opening_id": "52719",
+      "hourly_rate": "$35.00/hr",
+      "date_posted": "2024-03-20",
+      "job_description": "Develop and implement marketing strategies to enhance brand visibility and drive sales.",
+      "requirements": [
+        "5+ years of marketing experience",
+        "Experience in digital marketing",
+        "Strong project management skills"
+      ],
+      "skills_required": ["Marketing", "Digital Marketing", "Project Management"],
+      "company_size": "200-500 employees",
+      "contact_email": "hr@nextgenmarketing.com"
+    },
+    {
+      "id": 10004,
+      "job_title": "UX/UI Designer",
+      "company": "Innovative Designs",
+      "job_type": "Part Time",
+      "location": "Berlin, Germany",
+      "opening_id": "52720",
+      "hourly_rate": "$25.00/hr",
+      "date_posted": "2024-02-10",
+      "job_description": "Design and improve user interfaces to ensure a seamless user experience for web and mobile apps.",
+      "requirements": [
+        "Experience in UI/UX design",
+        "Proficiency in design tools like Figma, Sketch, or Adobe XD",
+        "Strong portfolio of previous work"
+      ],
+      "skills_required": ["UI/UX Design", "Figma", "Adobe XD"],
+      "company_size": "50-100 employees",
+      "contact_email": "jobs@innovativedesigns.com"
+    },
+    {
+      "id": 10005,
+      "job_title": "Software Engineer",
+      "company": "TechVenture",
+      "job_type": "Full Time",
+      "location": "San Francisco, USA",
+      "opening_id": "52721",
+      "hourly_rate": "$55.00/hr",
+      "date_posted": "2024-06-25",
+      "job_description": "Develop and optimize software solutions across multiple platforms.",
+      "requirements": [
+        "Strong experience in C++ or Java",
+        "Familiarity with cloud technologies",
+        "Problem-solving mindset"
+      ],
+      "skills_required": ["C++", "Java", "Cloud Technologies"],
+      "company_size": "1000+ employees",
+      "contact_email": "hr@techventure.com"
+    },
+    {
+      "id": 10006,
+      "job_title": "Product Manager",
+      "company": "Creative Solutions",
+      "job_type": "Full Time",
+      "location": "Sydney, Australia",
+      "opening_id": "52722",
+      "hourly_rate": "$50.00/hr",
+      "date_posted": "2024-05-12",
+      "job_description": "Lead product development and innovation from concept to execution.",
+      "requirements": [
+        "Experience in product lifecycle management",
+        "Strong analytical and leadership skills",
+        "Experience with Agile methodologies"
+      ],
+      "skills_required": ["Product Management", "Agile", "Leadership"],
+      "company_size": "500-1000 employees",
+      "contact_email": "careers@creativesolutions.com"
+    },
+    {
+      "id": 10007,
+      "job_title": "Web Developer",
+      "company": "Webify",
+      "job_type": "Part Time",
+      "location": "Dallas, USA",
+      "opening_id": "52723",
+      "hourly_rate": "$30.00/hr",
+      "date_posted": "2024-07-15",
+      "job_description": "Build and maintain websites using the latest web development technologies.",
+      "requirements": [
+        "Experience in HTML5, CSS3, JavaScript",
+        "Knowledge of WordPress or similar platforms",
+        "Strong attention to detail"
+      ],
+      "skills_required": ["HTML5", "CSS3", "WordPress"],
+      "company_size": "100-300 employees",
+      "contact_email": "contact@webify.com"
+    },
+    {
+      "id": 10008,
+      "job_title": "Cloud Architect",
+      "company": "CloudTech",
+      "job_type": "Full Time",
+      "location": "Paris, France",
+      "opening_id": "52724",
+      "hourly_rate": "$70.00/hr",
+      "date_posted": "2024-08-01",
+      "job_description": "Design, deploy, and manage scalable cloud infrastructure solutions.",
+      "requirements": [
+        "Experience with AWS, GCP, or Azure",
+        "Strong knowledge of cloud architectures",
+        "Excellent troubleshooting skills"
+      ],
+      "skills_required": ["AWS", "Azure", "Cloud Architecture"],
+      "company_size": "500-1000 employees",
+      "contact_email": "hr@cloudtech.com"
+    },
+    {
+      "id": 10009,
+      "job_title": "Business Analyst",
+      "company": "Strategy Group",
+      "job_type": "Contract",
+      "location": "Chicago, USA",
+      "opening_id": "52725",
+      "hourly_rate": "$50.00/hr",
+      "date_posted": "2024-09-05",
+      "job_description": "Analyze and improve business operations and processes.",
+      "requirements": [
+        "Strong analytical and problem-solving skills",
+        "Experience with data analysis tools",
+        "Ability to communicate complex ideas clearly"
+      ],
+      "skills_required": ["Business Analysis", "Data Analysis", "Communication"],
+      "company_size": "1000+ employees",
+      "contact_email": "jobs@strategygroup.com"
+    },
+    {
+      "id": 10010,
+      "job_title": "Systems Engineer",
+      "company": "TechWorks",
+      "job_type": "Full Time",
+      "location": "Vancouver, Canada",
+      "opening_id": "52726",
+      "hourly_rate": "$60.00/hr",
+      "date_posted": "2024-09-10",
+      "job_description": "Design and implement advanced systems infrastructure solutions.",
+      "requirements": [
+        "Experience with systems design and integration",
+        "Knowledge of Linux, Unix, and Windows",
+        "Experience with virtualization technologies"
+      ],
+      "skills_required": ["Linux", "Unix", "Virtualization"],
+      "company_size": "200-500 employees",
+      "contact_email": "hr@techworks.com"
+    },
+    {
+      "id": 10011,
+      "job_title": "Network Engineer",
+      "company": "NetConnect",
+      "job_type": "Full Time",
+      "location": "Tokyo, Japan",
+      "opening_id": "52727",
+      "hourly_rate": "$55.00/hr",
+      "date_posted": "2024-09-15",
+      "job_description": "Design and optimize networking solutions for clients.",
+      "requirements": [
+        "Experience with network design and configuration",
+        "Knowledge of networking protocols",
+        "Certifications like CCNA or CCNP are a plus"
+      ],
+      "skills_required": ["Networking", "TCP/IP", "CCNA"],
+      "company_size": "100-500 employees",
+      "contact_email": "careers@netconnect.com"
+    },
+    {
+      "id": 10012,
+      "job_title": "Operations Manager",
+      "company": "OpManage",
+      "job_type": "Full Time",
+      "location": "Los Angeles, USA",
+      "opening_id": "52728",
+      "hourly_rate": "$45.00/hr",
+      "date_posted": "2024-10-01",
+      "job_description": "Oversee daily operations and implement operational strategies to enhance business productivity.",
+      "requirements": [
+        "Experience in operations management",
+        "Strong leadership and organizational skills",
+        "Ability to work under pressure"
+      ],
+      "skills_required": ["Operations Management", "Leadership", "Organization"],
+      "company_size": "500-1000 employees",
+      "contact_email": "hr@opmanage.com"
+    },
+    {
+        "id": 10013,
+        "job_title": "SEO Specialist",
+        "company": "WebXpert",
+        "job_type": "Full Time",
+        "location": "Mumbai, India",
+        "opening_id": "52729",
+        "hourly_rate": "$35.00/hr",
+        "date_posted": "2024-10-10",
+        "job_description": "Optimize web pages to improve search engine rankings and drive traffic.",
+        "requirements": [
+          "Expert knowledge of SEO techniques",
+          "Experience with Google Analytics and SEO tools",
+          "Strong content optimization skills"
+        ],
+        "skills_required": ["SEO", "Google Analytics", "Content Optimization"],
+        "company_size": "200-500 employees",
+        "contact_email": "careers@webxpert.com"
+      },
+      {
+        "id": 10014,
+        "job_title": "Mobile App Developer",
+        "company": "AppForge",
+        "job_type": "Contract",
+        "location": "Austin, USA",
+        "opening_id": "52730",
+        "hourly_rate": "$50.00/hr",
+        "date_posted": "2024-10-15",
+        "job_description": "Design and develop mobile applications for iOS and Android platforms.",
+        "requirements": [
+          "Proficiency in Swift, Kotlin, or React Native",
+          "Experience with mobile app deployment on App Store and Google Play",
+          "Knowledge of mobile app UI/UX best practices"
+        ],
+        "skills_required": ["Swift", "Kotlin", "React Native"],
+        "company_size": "50-200 employees",
+        "contact_email": "jobs@appforge.com"
+      },
+      {
+        "id": 10015,
+        "job_title": "Content Writer",
+        "company": "Creative Studio",
+        "job_type": "Full Time",
+        "location": "Berlin, Germany",
+        "opening_id": "52731",
+        "hourly_rate": "$22.00/hr",
+        "date_posted": "2024-10-20",
+        "job_description": "Write engaging content for blogs, social media, and websites.",
+        "requirements": [
+          "Excellent writing and editing skills",
+          "Experience in content creation",
+          "Familiarity with SEO writing techniques"
+        ],
+        "skills_required": ["Content Writing", "Editing", "SEO Writing"],
+        "company_size": "100-300 employees",
+        "contact_email": "hr@creativestudio.com"
+      },
+      {
+        "id": 10016,
+        "job_title": "Data Analyst",
+        "company": "Insight Analytics",
+        "job_type": "Full Time",
+        "location": "Boston, USA",
+        "opening_id": "52732",
+        "hourly_rate": "$45.00/hr",
+        "date_posted": "2024-10-25",
+        "job_description": "Analyze business data to provide actionable insights and recommendations.",
+        "requirements": [
+          "Proficiency in SQL, Excel, and data visualization tools",
+          "Experience in statistical analysis",
+          "Strong analytical thinking skills"
+        ],
+        "skills_required": ["SQL", "Excel", "Data Visualization"],
+        "company_size": "500-1000 employees",
+        "contact_email": "careers@insightanalytics.com"
+      },
+      {
+        "id": 10017,
+        "job_title": "Blockchain Developer",
+        "company": "BlockTech",
+        "job_type": "Contract",
+        "location": "Toronto, Canada",
+        "opening_id": "52733",
+        "hourly_rate": "$65.00/hr",
+        "date_posted": "2024-10-30",
+        "job_description": "Develop decentralized applications and blockchain protocols.",
+        "requirements": [
+          "Experience with Solidity, Ethereum, or Hyperledger",
+          "Strong knowledge of blockchain fundamentals",
+          "Familiarity with cryptographic algorithms"
+        ],
+        "skills_required": ["Solidity", "Ethereum", "Blockchain"],
+        "company_size": "100-500 employees",
+        "contact_email": "jobs@blocktech.com"
+      },
+      {
+        "id": 10018,
+        "job_title": "DevOps Engineer",
+        "company": "CloudOps",
+        "job_type": "Full Time",
+        "location": "Seattle, USA",
+        "opening_id": "52734",
+        "hourly_rate": "$60.00/hr",
+        "date_posted": "2024-11-02",
+        "job_description": "Automate and streamline operations and deployment pipelines.",
+        "requirements": [
+          "Experience with CI/CD pipelines and cloud technologies",
+          "Strong knowledge of containerization (Docker, Kubernetes)",
+          "Familiarity with AWS or Azure"
+        ],
+        "skills_required": ["CI/CD", "Docker", "AWS"],
+        "company_size": "200-1000 employees",
+        "contact_email": "hr@cloudops.com"
+      },
+      {
+        "id": 10019,
+        "job_title": "HR Manager",
+        "company": "PeopleFirst",
+        "job_type": "Full Time",
+        "location": "Singapore",
+        "opening_id": "52735",
+        "hourly_rate": "$55.00/hr",
+        "date_posted": "2024-11-05",
+        "job_description": "Manage HR processes including recruitment, employee relations, and performance management.",
+        "requirements": [
+          "5+ years of HR management experience",
+          "Strong interpersonal and organizational skills",
+          "Experience with HR software"
+        ],
+        "skills_required": ["HR Management", "Recruitment", "Employee Relations"],
+        "company_size": "500+ employees",
+        "contact_email": "jobs@peoplefirst.com"
+      },
+      {
+        "id": 10020,
+        "job_title": "Sales Manager",
+        "company": "SalesForce",
+        "job_type": "Full Time",
+        "location": "Los Angeles, USA",
+        "opening_id": "52736",
+        "hourly_rate": "$70.00/hr",
+        "date_posted": "2024-11-10",
+        "job_description": "Lead the sales team to drive revenue and meet business objectives.",
+        "requirements": [
+          "Proven sales experience",
+          "Strong leadership skills",
+          "Excellent communication and negotiation skills"
+        ],
+        "skills_required": ["Sales", "Leadership", "Negotiation"],
+        "company_size": "500-1000 employees",
+        "contact_email": "careers@salesforce.com"
+      },
+      {
+        "id": 10021,
+        "job_title": "Customer Support Specialist",
+        "company": "SupportNow",
+        "job_type": "Full Time",
+        "location": "New York, USA",
+        "opening_id": "52737",
+        "hourly_rate": "$25.00/hr",
+        "date_posted": "2024-11-15",
+        "job_description": "Provide exceptional customer service and resolve client issues promptly.",
+        "requirements": [
+          "Excellent communication skills",
+          "Ability to troubleshoot and resolve customer complaints",
+          "Experience with CRM software"
+        ],
+        "skills_required": ["Customer Service", "Troubleshooting", "CRM Software"],
+        "company_size": "200-500 employees",
+        "contact_email": "support@supportnow.com"
+      },
+      {
+        "id": 10022,
+        "job_title": "Legal Advisor",
+        "company": "LegalVision",
+        "job_type": "Full Time",
+        "location": "Sydney, Australia",
+        "opening_id": "52738",
+        "hourly_rate": "$90.00/hr",
+        "date_posted": "2024-11-20",
+        "job_description": "Provide legal advice and guidance on company policies and regulatory issues.",
+        "requirements": [
+          "Juris Doctor (JD) or equivalent degree",
+          "Experience in corporate law",
+          "Strong negotiation and communication skills"
+        ],
+        "skills_required": ["Corporate Law", "Negotiation", "Legal Research"],
+        "company_size": "200-500 employees",
+        "contact_email": "careers@legalvision.com"
+      },
+      {
+        "id": 10023,
+        "job_title": "Operations Research Analyst",
+        "company": "Optima Analytics",
+        "job_type": "Full Time",
+        "location": "Toronto, Canada",
+        "opening_id": "52739",
+        "hourly_rate": "$55.00/hr",
+        "date_posted": "2024-11-25",
+        "job_description": "Analyze data and processes to improve efficiency and decision-making in operations.",
+        "requirements": [
+          "Strong analytical and problem-solving skills",
+          "Experience with operations research software",
+          "Background in optimization techniques"
+        ],
+        "skills_required": ["Operations Research", "Data Analysis", "Optimization"],
+        "company_size": "100-500 employees",
+        "contact_email": "hr@optimaanalytics.com"
+      },
+      {
+        "id": 10024,
+        "job_title": "Financial Analyst",
+        "company": "FinancePro",
+        "job_type": "Contract",
+        "location": "London, UK",
+        "opening_id": "52740",
+        "hourly_rate": "$60.00/hr",
+        "date_posted": "2024-12-01",
+        "job_description": "Provide financial analysis and reports to support business decision-making.",
+        "requirements": [
+          "Experience with financial modeling and forecasting",
+          "Proficiency in Excel and financial software",
+          "Attention to detail"
+        ],
+        "skills_required": ["Financial Analysis", "Excel", "Financial Reporting"],
+        "company_size": "500+ employees",
+        "contact_email": "jobs@financepro.com"
+      },
+      {
+        "id": 10025,
+        "job_title": "Software Tester",
+        "company": "TechFlow",
+        "job_type": "Full Time",
+        "location": "San Francisco, USA",
+        "opening_id": "52741",
+        "hourly_rate": "$40.00/hr",
+        "date_posted": "2024-12-05",
+        "job_description": "Test and ensure the quality of software applications and systems.",
+        "requirements": [
+          "Experience with automated and manual testing",
+          "Knowledge of test case design and bug tracking tools",
+          "Strong attention to detail"
+        ],
+        "skills_required": ["Testing", "Automation", "Bug Tracking"],
+        "company_size": "200-500 employees",
+        "contact_email": "hr@techflow.com"
+      },
+      {
+        "id": 10026,
+        "job_title": "AI Engineer",
+        "company": "AI Innovations",
+        "job_type": "Full Time",
+        "location": "Paris, France",
+        "opening_id": "52742",
+        "hourly_rate": "$75.00/hr",
+        "date_posted": "2024-12-10",
+        "job_description": "Design and implement AI and machine learning algorithms for various applications.",
+        "requirements": [
+          "Experience with Python, TensorFlow, or PyTorch",
+          "Knowledge of AI/ML algorithms and frameworks",
+          "Strong problem-solving skills"
+        ],
+        "skills_required": ["AI", "Machine Learning", "Python"],
+        "company_size": "300-1000 employees",
+        "contact_email": "jobs@aiinnovations.com"
+      },
+      {
+        "id": 10027,
+        "job_title": "Project Manager",
+        "company": "Elite Projects",
+        "job_type": "Full Time",
+        "location": "Tokyo, Japan",
+        "opening_id": "52743",
+        "hourly_rate": "$60.00/hr",
+        "date_posted": "2024-12-12",
+        "job_description": "Oversee project planning, implementation, and team collaboration to ensure successful project delivery.",
+        "requirements": [
+          "5+ years of project management experience",
+          "Strong communication and organizational skills",
+          "Familiarity with project management tools (e.g., Jira, Asana)"
+        ],
+        "skills_required": ["Project Management", "Team Leadership", "Jira"],
+        "company_size": "500+ employees",
+        "contact_email": "hr@eliteprojects.com"
+      },
+      {
+        "id": 10028,
+        "job_title": "Data Engineer",
+        "company": "DataFlow",
+        "job_type": "Full Time",
+        "location": "Chicago, USA",
+        "opening_id": "52744",
+        "hourly_rate": "$65.00/hr",
+        "date_posted": "2024-12-15",
+        "job_description": "Design and implement systems for data collection, storage, and analysis.",
+        "requirements": [
+          "Experience with ETL processes and data pipelines",
+          "Proficiency in SQL and Python",
+          "Familiarity with cloud-based data tools (e.g., AWS, GCP)"
+        ],
+        "skills_required": ["ETL", "SQL", "Cloud Computing"],
+        "company_size": "300-1000 employees",
+        "contact_email": "careers@dataflow.com"
+      },
+      {
+        "id": 10029,
+        "job_title": "Graphic Designer",
+        "company": "DesignHive",
+        "job_type": "Part Time",
+        "location": "New York, USA",
+        "opening_id": "52745",
+        "hourly_rate": "$30.00/hr",
+        "date_posted": "2024-12-18",
+        "job_description": "Design creative graphics for print, digital, and social media campaigns.",
+        "requirements": [
+          "Proficiency in Adobe Creative Suite (Photoshop, Illustrator)",
+          "Strong creativity and visual design skills",
+          "Experience in branding and marketing materials"
+        ],
+        "skills_required": ["Graphic Design", "Adobe Photoshop", "Branding"],
+        "company_size": "50-200 employees",
+        "contact_email": "jobs@designhive.com"
+      },
+      {
+        "id": 10030,
+        "job_title": "Cloud Security Engineer",
+        "company": "SecuCloud",
+        "job_type": "Full Time",
+        "location": "London, UK",
+        "opening_id": "52746",
+        "hourly_rate": "$80.00/hr",
+        "date_posted": "2024-12-20",
+        "job_description": "Secure cloud environments by designing and implementing security protocols and best practices.",
+        "requirements": [
+          "Experience with cloud security frameworks (e.g., AWS, Azure)",
+          "Strong understanding of security best practices",
+          "Experience with vulnerability assessment and penetration testing"
+        ],
+        "skills_required": ["Cloud Security", "AWS", "Penetration Testing"],
+        "company_size": "200-500 employees",
+        "contact_email": "careers@secucloud.com"
+      },
+      {
+        "id": 10031,
+        "job_title": "Social Media Manager",
+        "company": "MediaTech",
+        "job_type": "Full Time",
+        "location": "Los Angeles, USA",
+        "opening_id": "52747",
+        "hourly_rate": "$40.00/hr",
+        "date_posted": "2024-12-22",
+        "job_description": "Manage and execute social media campaigns to increase brand awareness and engagement.",
+        "requirements": [
+          "Experience with social media management tools",
+          "Strong writing and communication skills",
+          "Ability to analyze and report on social media metrics"
+        ],
+        "skills_required": ["Social Media Management", "Content Creation", "Analytics"],
+        "company_size": "300-1000 employees",
+        "contact_email": "jobs@mediatech.com"
+      },
+      {
+        "id": 10032,
+        "job_title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "job_type": "Full Time",
+        "location": "Singapore",
+        "opening_id": "52748",
+        "hourly_rate": "$75.00/hr",
+        "date_posted": "2024-12-25",
+        "job_description": "Monitor and secure the company’s network, systems, and applications against cyber threats.",
+        "requirements": [
+          "Experience with firewalls, intrusion detection systems, and anti-virus software",
+          "Strong analytical and problem-solving skills",
+          "Knowledge of cybersecurity frameworks"
+        ],
+        "skills_required": ["Cybersecurity", "Network Security", "Threat Detection"],
+        "company_size": "500+ employees",
+        "contact_email": "hr@securenet.com"
+      },
+      {
+        "id": 10033,
+        "job_title": "E-commerce Manager",
+        "company": "ShopTech",
+        "job_type": "Full Time",
+        "location": "Toronto, Canada",
+        "opening_id": "52749",
+        "hourly_rate": "$50.00/hr",
+        "date_posted": "2025-01-01",
+        "job_description": "Manage the online store, marketing campaigns, and optimize user experience for e-commerce success.",
+        "requirements": [
+          "Experience with e-commerce platforms like Shopify or Magento",
+          "Strong understanding of digital marketing and SEO",
+          "Ability to analyze sales data and optimize product offerings"
+        ],
+        "skills_required": ["E-commerce", "Shopify", "Digital Marketing"],
+        "company_size": "100-500 employees",
+        "contact_email": "jobs@shoptech.com"
+      },
+      {
+        "id": 10034,
+        "job_title": "Web Designer",
+        "company": "CreativeWeb",
+        "job_type": "Full Time",
+        "location": "Berlin, Germany",
+        "opening_id": "52750",
+        "hourly_rate": "$45.00/hr",
+        "date_posted": "2025-01-05",
+        "job_description": "Design, build, and maintain responsive websites for clients.",
+        "requirements": [
+          "Experience with HTML, CSS, JavaScript",
+          "Proficiency in web design tools like Adobe XD or Sketch",
+          "Knowledge of responsive web design principles"
+        ],
+        "skills_required": ["Web Design", "HTML", "CSS"],
+        "company_size": "50-200 employees",
+        "contact_email": "careers@creativeweb.com"
+      },
+      {
+        "id": 10035,
+        "job_title": "Network Administrator",
+        "company": "NetSystems",
+        "job_type": "Full Time",
+        "location": "Vancouver, Canada",
+        "opening_id": "52751",
+        "hourly_rate": "$55.00/hr",
+        "date_posted": "2025-01-10",
+        "job_description": "Manage and troubleshoot network systems, ensuring high availability and performance.",
+        "requirements": [
+          "Experience with network management tools",
+          "Knowledge of network protocols and configurations",
+          "CCNA or equivalent certification"
+        ],
+        "skills_required": ["Networking", "CCNA", "Troubleshooting"],
+        "company_size": "500+ employees",
+        "contact_email": "hr@netsystems.com"
+      },
+      {
+        "id": 10036,
+        "job_title": "HR Assistant",
+        "company": "PeopleCorp",
+        "job_type": "Full Time",
+        "location": "New York, USA",
+        "opening_id": "52752",
+        "hourly_rate": "$20.00/hr",
+        "date_posted": "2025-01-15",
+        "job_description": "Assist with HR tasks including employee record management, recruitment, and onboarding.",
+        "requirements": [
+          "Excellent organizational skills",
+          "Strong communication skills",
+          "Experience with HR software"
+        ],
+        "skills_required": ["HR", "Communication", "Recruitment"],
+        "company_size": "100-500 employees",
+        "contact_email": "careers@peoplecorp.com"
+      },
+      {
+        "id": 10037,
+        "job_title": "UX/UI Designer",
+        "company": "TechSolutions",
+        "job_type": "Full Time",
+        "location": "San Francisco, USA",
+        "opening_id": "52753",
+        "hourly_rate": "$70.00/hr",
+        "date_posted": "2025-01-20",
+        "job_description": "Design user-centric interfaces for web and mobile applications, focusing on user experience.",
+        "requirements": [
+          "Proficiency in design tools like Figma, Adobe XD, or Sketch",
+          "Strong understanding of UX principles",
+          "Experience with prototyping and wireframing"
+        ],
+        "skills_required": ["UX Design", "UI Design", "Prototyping"],
+        "company_size": "200-1000 employees",
+        "contact_email": "jobs@techsolutions.com"
+      },
+      {
+        "id": 10038,
+        "job_title": "Marketing Specialist",
+        "company": "MarketGenius",
+        "job_type": "Contract",
+        "location": "London, UK",
+        "opening_id": "52754",
+        "hourly_rate": "$45.00/hr",
+        "date_posted": "2025-01-25",
+        "job_description": "Develop and implement marketing campaigns to promote products and increase sales.",
+        "requirements": [
+          "Experience with digital marketing strategies",
+          "Strong analytical and creative skills",
+          "Familiarity with marketing automation tools"
+        ],
+        "skills_required": ["Digital Marketing", "Content Marketing", "SEO"],
+        "company_size": "100-500 employees",
+        "contact_email": "careers@marketgenius.com"
+      },
+      {
+        "id": 10039,
+        "job_title": "Cloud Architect",
+        "company": "CloudWorks",
+        "job_type": "Full Time",
+        "location": "Sydney, Australia",
+        "opening_id": "52755",
+        "hourly_rate": "$90.00/hr",
+        "date_posted": "2025-02-01",
+        "job_description": "Design cloud infrastructure solutions that are scalable, secure, and cost-effective.",
+        "requirements": [
+          "Experience with AWS, Azure, or Google Cloud",
+          "Strong architectural skills",
+          "Ability to design disaster recovery plans"
+        ],
+        "skills_required": ["Cloud Architecture", "AWS", "Azure"],
+        "company_size": "500-1000 employees",
+        "contact_email": "jobs@cloudworks.com"
+      },
+      {
+        "id": 10040,
+        "job_title": "Full Stack Developer",
+        "company": "CodeGen",
+        "job_type": "Full Time",
+        "location": "Berlin, Germany",
+        "opening_id": "52756",
+        "hourly_rate": "$70.00/hr",
+        "date_posted": "2025-02-05",
+        "job_description": "Develop both front-end and back-end of web applications using modern technologies.",
+        "requirements": [
+          "Proficiency in JavaScript, React, Node.js, and databases",
+          "Strong knowledge of RESTful APIs",
+          "Experience with Agile development"
+        ],
+        "skills_required": ["Full Stack Development", "JavaScript", "Node.js"],
+        "company_size": "100-500 employees",
+        "contact_email": "careers@codegen.com"
+      },
+      {
+        "id": 10041,
+        "job_title": "Operations Coordinator",
+        "company": "OpsCo",
+        "job_type": "Full Time",
+        "location": "San Francisco, USA",
+        "opening_id": "52757",
+        "hourly_rate": "$35.00/hr",
+        "date_posted": "2025-02-10",
+        "job_description": "Coordinate operations and logistics to ensure smooth daily business functions.",
+        "requirements": [
+          "Strong organizational skills",
+          "Experience in logistics and operations",
+          "Ability to handle multiple tasks simultaneously"
+        ],
+        "skills_required": ["Operations", "Logistics", "Coordination"],
+        "company_size": "50-200 employees",
+        "contact_email": "hr@opsco.com"
+      },
+      {
+        "id": 10042,
+        "job_title": "Salesforce Developer",
+        "company": "SalesPro",
+        "job_type": "Contract",
+        "location": "Los Angeles, USA",
+        "opening_id": "52758",
+        "hourly_rate": "$65.00/hr",
+        "date_posted": "2025-02-15",
+        "job_description": "Develop, customize, and maintain Salesforce applications and integrations.",
+        "requirements": [
+          "Experience with Salesforce development and configuration",
+          "Strong knowledge of Apex, Visualforce, and Lightning Components",
+          "Salesforce certifications are a plus"
+        ],
+        "skills_required": ["Salesforce", "Apex", "Visualforce"],
+        "company_size": "200-500 employees",
+        "contact_email": "careers@salespro.com"
+      },
+      {
+        "id": 10043,
+        "job_title": "Database Administrator",
+        "company": "DataSecure",
+        "job_type": "Full Time",
+        "location": "Toronto, Canada",
+        "opening_id": "52759",
+        "hourly_rate": "$55.00/hr",
+        "date_posted": "2025-02-20",
+        "job_description": "Ensure the performance, security, and availability of company databases.",
+        "requirements": [
+          "Experience with SQL and NoSQL databases",
+          "Familiarity with database security best practices",
+          "Ability to troubleshoot and optimize database performance"
+        ],
+        "skills_required": ["Database Management", "SQL", "NoSQL"],
+        "company_size": "300-1000 employees",
+        "contact_email": "hr@datasecure.com"
+      },
+      {
+        "id": 10044,
+        "job_title": "Content Strategist",
+        "company": "ContentFlow",
+        "job_type": "Full Time",
+        "location": "London, UK",
+        "opening_id": "52760",
+        "hourly_rate": "$50.00/hr",
+        "date_posted": "2025-02-25",
+        "job_description": "Develop and implement content strategies to support marketing and branding objectives.",
+        "requirements": [
+          "Experience with content marketing and strategy",
+          "Strong writing and editorial skills",
+          "Ability to analyze content performance metrics"
+        ],
+        "skills_required": ["Content Strategy", "Marketing", "Analytics"],
+        "company_size": "100-500 employees",
+        "contact_email": "jobs@contentflow.com"
+      },
+      {
+        "id": 10045,
+        "job_title": "Quality Assurance Engineer",
+        "company": "TestWorks",
+        "job_type": "Full Time",
+        "location": "San Francisco, USA",
+        "opening_id": "52761",
+        "hourly_rate": "$45.00/hr",
+        "date_posted": "2025-03-01",
+        "job_description": "Ensure the quality of software products by identifying bugs and recommending improvements.",
+        "requirements": [
+          "Experience in manual and automated testing",
+          "Familiarity with testing frameworks and tools",
+          "Strong attention to detail"
+        ],
+        "skills_required": ["QA", "Testing", "Automation"],
+        "company_size": "200-1000 employees",
+        "contact_email": "careers@testworks.com"
+      },
+      {
+        "id": 10046,
+        "job_title": "System Administrator",
+        "company": "SysTech",
+        "job_type": "Full Time",
+        "location": "Berlin, Germany",
+        "opening_id": "52762",
+        "hourly_rate": "$55.00/hr",
+        "date_posted": "2025-03-05",
+        "job_description": "Administer and maintain the company's IT infrastructure and systems.",
+        "requirements": [
+          "Experience with Linux and Windows servers",
+          "Knowledge of system monitoring and troubleshooting",
+          "Ability to work with cloud infrastructure (AWS, Azure)"
+        ],
+        "skills_required": ["System Administration", "Linux", "Cloud Infrastructure"],
+        "company_size": "500+ employees",
+        "contact_email": "hr@sytech.com"
+      },
+      {
+        "id": 10047,
+        "job_title": "Game Developer",
+        "company": "GameDev Studios",
+        "job_type": "Contract",
+        "location": "Los Angeles, USA",
+        "opening_id": "52763",
+        "hourly_rate": "$60.00/hr",
+        "date_posted": "2025-03-10",
+        "job_description": "Develop and maintain interactive video games for various platforms.",
+        "requirements": [
+          "Proficiency in C++ or Unity",
+          "Experience with game mechanics and design",
+          "Ability to optimize game performance"
+        ],
+        "skills_required": ["Game Development", "C++", "Unity"],
+        "company_size": "200-500 employees",
+        "contact_email": "careers@gamedev.com"
+      },
+      {
+        "id": 10048,
+        "job_title": "Mobile App Developer",
+        "company": "AppWorks",
+        "job_type": "Full Time",
+        "location": "Toronto, Canada",
+        "opening_id": "52764",
+        "hourly_rate": "$65.00/hr",
+        "date_posted": "2025-03-15",
+        "job_description": "Develop and maintain mobile applications for iOS and Android platforms.",
+        "requirements": [
+          "Experience with Swift, Kotlin, or React Native",
+          "Knowledge of mobile app design principles",
+          "Ability to integrate with third-party APIs"
+        ],
+        "skills_required": ["Mobile App Development", "Swift", "Kotlin"],
+        "company_size": "300-1000 employees",
+        "contact_email": "jobs@appworks.com"
+      },
+      {
+        "id": 10049,
+        "job_title": "Business Analyst",
+        "company": "BizTech Solutions",
+        "job_type": "Full Time",
+        "location": "San Francisco, USA",
+        "opening_id": "52765",
+        "hourly_rate": "$55.00/hr",
+        "date_posted": "2025-03-20",
+        "job_description": "Analyze business processes and make recommendations for improvement.",
+        "requirements": [
+          "Strong analytical and problem-solving skills",
+          "Experience with data analysis and visualization tools",
+          "Ability to work with stakeholders to define business needs"
+        ],
+        "skills_required": ["Business Analysis", "Data Analysis", "Stakeholder Management"],
+        "company_size": "100-500 employees",
+        "contact_email": "careers@biztechsolutions.com"
+      },
+      {
+        "id": 10050,
+        "job_title": "DevOps Engineer",
+        "company": "DevOpsWorks",
+        "job_type": "Full Time",
+        "location": "London, UK",
+        "opening_id": "52766",
+        "hourly_rate": "$70.00/hr",
+        "date_posted": "2025-03-25",
+        "job_description": "Implement and manage CI/CD pipelines and automation tools for development teams.",
+        "requirements": [
+          "Experience with cloud infrastructure (AWS, Azure)",
+          "Strong knowledge of DevOps tools (Docker, Kubernetes)",
+          "Familiarity with scripting languages"
+        ],
+        "skills_required": ["DevOps", "CI/CD", "Docker"],
+        "company_size": "200-500 employees",
+        "contact_email": "hr@devopsworks.com"
+      }
+  ]
+  
