@@ -6,7 +6,7 @@ let allJobs = [];  // To store the original list of all jobs
 
 // Function to fetch job data from Firebase
 function fetchJobs() {
-    const apiUrl = 'https://quickjobs-1-default-rtdb.firebaseio.com/jobs.json';  // Firebase endpoint
+    const apiUrl = 'https://quickjob-c76e9-default-rtdb.firebaseio.com/.json';  // Firebase endpoint
 
     fetch(apiUrl)
         .then(response => response.json())  // Parse the response to JSON
